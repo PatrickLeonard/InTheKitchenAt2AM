@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">In the Kitchen at 2 AM</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="imageAltTag">Signal from Mars title image</string>
+    <string name="startButtonText">Start Your Adventure</string>
+    <string name="nameEditTextHint">Enter your name to begin</string>
+    <string name="titleImageDescription">Signals from Mars title image</string>
+    <string name="title_activity_story">Story Activity</string>
+    <string name="key_name">name</string>
+</resources>
